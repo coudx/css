@@ -1,0 +1,57 @@
+* {
+    font-family: 'Indie Flower', cursive;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.usercard {
+    margin: 10%;
+    width: 50%;
+    border: 2px solid silver;
+    height: 300px;
+}
+
+.header {
+    background: rgb(26, 174, 219);
+    height: 30%;
+    width: 100%;
+    position: relative;
+    top: 0;
+}
+
+#user {
+    width: 12%;
+    height: 12%;
+    border-radius: 50%;
+    padding: 5px;
+    background-color: white;
+    border: 2px solid black;
+}
+
+.content {
+    margin-left: 6%;
+    position: relative;
+    top: -17%;
+}
+
+.icon {
+    width: 15px;
+    height: 15px;
+}
+
+#map-icon {
+    height: 18px;
+}
+
+p {
+    font-weight: bold;
+}
+
+a {
+    padding-top: 10px;
+}
