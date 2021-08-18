@@ -1,0 +1,30 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    width: 720px;
+}
+
+p {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: large;
+    color: white;
+}
+
+.star {
+    float: left;
+    background-color: navy;
+    width: 265px;
+    padding: 10px;
+}
+
+.ssp {
+    float: right;
+}
+
+.red {
+    background-color: red;
+}
